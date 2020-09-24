@@ -1,0 +1,42 @@
+Name;Vorname;Telefon;Strasse;PLZ;Ort;Klasse;Name Lehrmeister;Vorname Lehrmeister;Email Lehrmeister;Firma;Firma Telefon;Firma Strasse;Firma PLZ;Firma Ort
+Burkhalter;Simon;032-672 16 91;Neuquartierstrasse 1;4562;Biberist;INF3A;Kocher;Rolf; ;Amt für Informatik und Organisation;032 627 22 41;Ritterquai 23;4509;Solothurn
+Käppeli;Philip;062-216 40 33;Bachstrasse 13a;4614;Hägendorf;INF3A;Meichtry;Bruno; ;Buchzentrum AG;062 209 25 25;Industriestrasse Ost 10;4614;Hägendorf
+Panchadcharam;Perasanna;032-618 42 17;Marktstrasse 11;4512;Bellach;INF3A;;;;ETA SA Manufacture Horlogère Suisse;032 655 71 11;Schild-Rust-Strasse 17;2540;Grenchen
+Stauffer;Rafael;032-351 50 06;Biezwilstrasse 15;3298;Oberwil b. Büren;INF3A;;;;ETA SA Manufacture Horlogère Suisse;032 655 71 11;Schild-Rust-Strasse 17;2540;Grenchen
+Biedermann;Marc;062 534 02 67;Räckholder 5;4632;Trimbach;INF3S;Troller;Andreas; ;Amcor Tobacco Packaging Switzerland GmbH;062 209 01 11;Industriestrasse West 6;4613;Rickenbach SO
+Corti;Chris;032-653 14 58;Standweg 18;2540;Grenchen;INF3S;König;Ulrich; ;Solothurner Spitäler AG;032 627 48 06;Schlössliweg 2-6;4500;Solothurn
+Dattilo;Danilo;062 293 13 89;Schachenweg 43;4657;Dulliken;INF3S;Gauch;Patric; ;Ronal AG;062 389 05 10;Lerchenbühl 3;4624;Härkingen
+Eymann;Raphael;062-293 37 45;Chollerweg 20;4632;Trimbach;INF3S;Häfliger;Roland;roland.haefliger@netree.ch;Netree AG;062 288 74 74;Industriestrasse 14;4658;Däniken SO
+Heer;Marco;032-652 07 52;Muntersweg 47;2540;Grenchen;INF3S;Widmer;Toni; ;Stryker Trauma AG;032 641 66 66;Bohnackerweg 1;2545;Selzach
+Hoog;Michael;032-614 51 84;Kanalweg 2b;4543;Deitingen;INF3S;Binz;Markus;mbinz@solnet.ch;BSE Software GmbH;032 517 62 23;Glutz-Blotzheim-Strasse 1;4500;Solothurn
+Privitera;Luca;032-623 85 56;Rosenweg 10;4533;Riedholz;INF3S;Fink;Kurt; ;Scintilla AG;032 686 33 64;Luterbachstrasse 10;4501;Solothurn
+Reist;Joel;032 652 93 33;Grotweg 22;2543;Lengnau BE;INF3S;Möri;Andreas; ;Mathys AG Bettlach;032 644 18 06;Robert Mathys Strasse 5;2544;Bettlach
+Savic;Nenad;062 927 10 82;Hintergass 15;6147;Altbüron;INF3S;Borner;Rolf; ;BZS Informatik GmbH;032 621 96 01;Rainackerstrasse 4;4562;Biberist
+Singer;Marc;032-377 31 08;Solothurnstrasse 1;2542;Pieterlen;INF3S;Roczniok;Patrick; ;von Roll itec ag;032 674 53 00;Bahnhofstrasse 270;4563;Gerlafingen
+Studer;Tobias;062-394 21 22;Hardstrasse 279;4715;Herbetswil;INF3S;König;Ulrich; ;Solothurner Spitäler AG;032 627 48 06;Schlössliweg 2-6;4500;Solothurn
+Varatharajan;Niveadha;032 639 16 81;Hauptstrasse 117;4716;Welschenrohr;INF3S;Spahn;Adrian; ;PUMA (Schweiz) AG;062 388 44 06;Ostringstrasse 17;4702;Oensingen
+Wagner;Joel;062-398 32 06;Bahnhofstrasse 59;4622;Egerkingen;INF3S;Nünlist;Aldo;aldo@nuenlist.ch;Nünlist AG;062 388 89 89;Martinstrasse 8;4622;Egerkingen
+Wandeler;Michael Savilthra;032 675 58 04;Hauptstrasse 32;4566;Halten;INF3S;Berger;Georg; ;Synthes Produktions GmbH;032 720 40 60;Muracherstrasse 3;2544;Bettlach
+Bösiger;Elia Gioele;032 618 43 27;Dachsweg 2;4512;Bellach;INF4A;Günter;Thomas; ;Intersys AG;032 626 50 70;Rötistrasse 6;4500;Solothurn
+Brughelli;Nicolas;032-645 40 16;Mattenweg 1;2544;Bettlach;INF4A;Ljuca;Mario; ;Cent Systems AG;032 685 05 50;Hauptstrasse 60;4566;Kriegstetten
+Buchser;José;032-392 58 32;Bifangweg 24;3273;Kappelen;INF4A;;;;ETA SA Manufacture Horlogère Suisse;032 655 71 11;Schild-Rust-Strasse 17;2540;Grenchen
+Jerg;Fabian;077-455 04 50;Dorfstrasse 166;4623;Neuendorf;INF4A;Häberling;Peter;p.haeberling@csb-system.ch;CSB-System AG;062 389 89 89;Gäustrasse 52;4703;Kestenholz
+Kamber;Pascal;062-298 22 88;Trottenackerstrasse 14;4654;Lostorf;INF4A;Stöckli;Thomas; ;MicroContact AG;062 285 80 10;Güterstrasse 7;4654;Lostorf
+Schmid;Patrick;032-637 28 86;Vorstettlistrasse 9;4524;Günsberg;INF4A;Ljuca;Mario; ;Cent Systems AG;032 685 05 50;Hauptstrasse 60;4566;Kriegstetten
+Sutter;Yannick;032-682 54 63;Rüttibachweg 6;4542;Luterbach;INF4A;Matter;Philipp; ;corix AG;032 671 20 00;Hauptstrasse 24;4562;Biberist
+Thüring;Tobias;032-637 22 40;Allmendstrasse 2;4535;Hubersdorf;INF4A;Fink;Kurt; ;Scintilla AG;032 686 33 64;Luterbachstrasse 10;4501;Solothurn
+Brunner;Fabian;032-653 28 51;Bellevuestrasse 26;2540;Grenchen;INF4S;Schwab;Bernhard; ;Regio Energie Solothurn;032 626 94 60;Rötistrasse 17;4502;Solothurn
+Christen;Florian;032-672 42 71;Gotthelfstrasse 12;4562;Biberist;INF4S;Giolo;Andreas;andreas.giolo@schaffner.com;Schaffner EMV AG;032 681 66 26;Nordstrasse 11;4542;Luterbach
+Esati;Mergim;062-296 30 72;Speiserstrasse 7;4600;Olten;INF4S;Häfliger;Roland;roland.haefliger@netree.ch;Netree AG;062 288 74 74;Industriestrasse 14;4658;Däniken SO
+Fimian;Joel;032 645 23 52;Alpenstrasse 64;2540;Grenchen;INF4S;Berger;Georg; ;Synthes Produktions GmbH;032 720 40 60;Muracherstrasse 3;2544;Bettlach
+Lehmann;Kevin;032 653 00 08;Däderizstrasse 5;2540;Grenchen;INF4S;Balsiger;Rolf; ;Höhere Fachschule für Technik Mitteland;032 654 28 28;Sportstrasse 2;2540;Grenchen
+Lingg;Remo;062-849 55 89;C.F. Ballystrasse 22;5012;Schönenwerd;INF4S;Koch;Manfred; ;Topas Informatik AG;062 298 07 77;Oltnerstrasse 39;4653;Obergösgen
+Marbot;Janick;079-363 32 39;Kappelenstrasse 1;3472;Wynigen;INF4S;Wisler;Matthias; ;AEK Energie AG;032 624 88 88;Westbahnhofstrasse 3;4502;Solothurn
+Noser;Matthias;062 394 21 58;Dorfstrasse 33;4713;Matzendorf;INF4S;Bollier;Marcel; ;Zaugg Maschinenbau AG;062 858 85 85;Parkstrasse 22;5012;Schönenwerd
+Thomo;Deogratias Tem;032-653 17 72;Waldeggstrasse 2;2540;Grenchen;INF4S;König;Ulrich; ;Solothurner Spitäler AG;032 627 48 06;Schlössliweg 2-6;4500;Solothurn
+Tschumi;Dominique;062-393 23 82;Hegistrasse 33;4625;Oberbuchsiten;INF4S;König;Ulrich; ;Solothurner Spitäler AG;032 627 48 06;Schlössliweg 2-6;4500;Solothurn
+Ulrich;Lukas Emanuel;062-212 29 70;Langhagstrasse 10;4600;Olten;INF4S;;;;MTF Olten AG;062 205 97 11;Solothurnerstrasse 259;4603;Olten
+Waechter;Siméon Raphael;032 675 71 81;Hauptstrasse 24;4565;Recherswil;INF4S;Mühlemann;René; ;Centris AG;032 625 44 44;Grabackerstrasse 3;4502;Solothurn
+Wehrli;Tina;062 291 31 28;Ettenbergsstrasse 33a;4658;Däniken SO;INF4S;Boner;Bruno; ;Kernkraftwerk Gösgen-Däniken AG;062 288 20 00;Postfach;4658;Däniken SO
+Zekic;Michel;032-621 23 88;Schulhausstrasse 3;4513;Langendorf;INF4S;Kocher;Rolf; ;Amt für Informatik und Organisation;032 627 22 41;Ritterquai 23;4509;Solothurn
+Zürcher;Ivo;032-682 54 58;Dörfliweg 3;4552;Derendingen;INF4S;Leu-Handschin;Gabriela; ;BDO AG;032 624 62 46;Biberiststrasse 16;4501;Solothurn

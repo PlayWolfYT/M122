@@ -1,0 +1,1 @@
+Import-Csv -Delimiter ";" .\lernende.csv | ForEach-Object { $name = (($_.Vorname.Split(" ")[0] + "." + $_.Name.Split(" ")[0]).toLower()); Write-Host $name; mkdir $name.Replace('ö','oe').Replace('ä','ae').Replace('ü','ue') }
