@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-19T15:18:36.072Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.323" etag="v1LKor3naRpSNQYk8fX0" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-19T15:20:40.242Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.323" etag="CVji2QLIV5ICjVkZ5NLd" version="13.10.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="997" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -116,6 +116,9 @@
         <mxCell id="JuJs7r0N4jEg0hdFKSLC-38" value="Nein" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="JuJs7r0N4jEg0hdFKSLC-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="JuJs7r0N4jEg0hdFKSLC-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JuJs7r0N4jEg0hdFKSLC-40" target="JuJs7r0N4jEg0hdFKSLC-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JuJs7r0N4jEg0hdFKSLC-40" value="" style="ellipse;fillColor=#ffffff;strokeColor=#000000;rounded=0;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="404" y="840" width="20" height="20" as="geometry" />
         </mxCell>
@@ -139,6 +142,9 @@
         </mxCell>
         <mxCell id="JuJs7r0N4jEg0hdFKSLC-47" value="Schüler zur Datenbank hinzufügen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JuJs7r0N4jEg0hdFKSLC-49" value="Schüler auf Klasse verweisen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="910" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
